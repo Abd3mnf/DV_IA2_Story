@@ -6,15 +6,17 @@ This Repository contains the statistical analysis of movies using various attrib
 
 ## Analysis and Visualization
 
-<img src="/Images/Census Income (1).png" height="400" width="550" />
-<img src="/Images/Census Income (2).png" height="400" width="550"/>
-<img src="/Images/G1.png" height="400" width="550"/>
-<img src="/Images/G2.png" height="400" />
-<img src="/Images/G3.png" height="400" />
-<img src="/Images/G4.png" height="400" />
-<img src="/Images/G5.png" height="400" />
-<img src="/Images/G6.png" height="500" />
-<img src="/Images/Census Income (3).png" height="400" width="550"/>
+<img src="/Images/Title.png" height="400" width="550" />
+<img src="/Images/DataSet.png" height="400" width="550"/>
+<img src="/Images/Budget D.png" height="400" width="550"/>
+<img src="/Images/Languages D.png" height="400" width="550"/>
+<img src="/Images/Genres D.png" height="400" width="550"/>
+<img src="/Images/ProdC D1.png" height="400" width="550"/>
+<img src="/Images/ProdC D2.png" height="400" width="550"/>
+<img src="/Images/ProdC F.png" height="500" width="550"/>
+<img src="/Images/Runtime D.png" height="400" width="550"/>
+<img src="/Images/BudgPop D.png" height="400" width="550"/>
+<img src="/Images/Thank You.png" height="400" width="550"/>
 
 
 ## Contributors
